@@ -8,7 +8,7 @@ This script was created as part of CyberArk's On The Front Lines (OTFL) Insider'
 
 ### Q&A From Webinar
 
-This will be added shortly.
+You may read the full list of Questions & Answers collected during both sessions of the webinar at [webinar-qa/README.md](webinar-qa/README.md).
 
 ## PowerShell Modules/Functions Used
 
