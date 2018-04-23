@@ -3,7 +3,9 @@ Import-Module psPAS
 
 ### VARIABLES
 
+# Base URI to PVWA as validated on the certificate
 $baseURI = "https://components"
+# Domain name to be used for Active Directory groups
 $domainName = "joe-garcia.local"
 
 ### RECEIVE USER INPUT
